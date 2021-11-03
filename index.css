@@ -1,0 +1,45 @@
+.nav li{
+    list-style-type: none;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    
+}
+.nav{
+   float: left;
+  
+   font-weight: 700;
+   position: relative;
+ 
+}
+
+.nav ul{ display: flex;
+    
+}
+h1{ text-align: center;
+    padding-top: 100px;
+    color: rgb(4, 49, 24);
+ }
+h3{ text-align: center;
+}
+
+ .logo { 
+    width: 200px;
+}
+
+.body{
+    background-image: url(images/back4.jpg);
+    background-size: cover;
+    height: 1000px;
+}
+.column {
+    display: inline;
+    float: left;
+    text-align: center;
+    width: 450px;
+    height: 300px;
+    margin-left: 30px;
+    background-color: rgb(129, 16, 16);
+    border-radius: 30%;
+    padding-bottom:50px;
+}
+footer{ text-align: center;}
