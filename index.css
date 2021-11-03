@@ -6,6 +6,12 @@
     
     
 }
+span{ color: rgb(107, 102, 104);
+font-weight: 700;
+font-style: italic;
+font-size: 100px;
+}
+
 
 .logoitem li{
 
@@ -40,7 +46,7 @@ h3{ text-align: center;
     background-image: url(images/back3.png);
     background-size: cover;
     height: 1000px;
-    
+    margin-top: -50px;
 }
 ol { color: honeydew;
 font-size: xx-large;}
